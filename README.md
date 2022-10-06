@@ -26,7 +26,7 @@ This portfolio website is built using HTML, JavaScript and CSS for styling.  Thi
 
 ## Screenshots -
 
-<img src="" width="500" height="500"/>
+<img src="/images/abhisheksingha.png" width="500" height="500"/>
 
 
 ## Author -
